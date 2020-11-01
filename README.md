@@ -8,7 +8,7 @@ At the end of these 10 months of intensive training, I'm sure the fire will stil
 
 ## Take a look at my woks @BeCode:
 
-You'll find here the result of an intensive learning.
+You'll find here the results of an intensive learning.
 
 ### First Steps
 
