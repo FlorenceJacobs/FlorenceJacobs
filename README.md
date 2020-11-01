@@ -10,7 +10,7 @@ At the end of these 10 months of intensive training, I'm sure the fire will stil
 
 You'll find here the results of an intensive learning.
 
-### HTML, CSS (After one month of study)
+### HTML, CSS (*After one month of study*)
 
 1. [OnePage to replicate](https://florencejacobs.github.io/turlututu/)
 2. [OnePage to create](https://florencejacobs.github.io/page_association/)
@@ -18,7 +18,7 @@ You'll find here the results of an intensive learning.
 4. [OnePage - Flex & Grid](https://florencejacobs.github.io/tim_berners_lee/)
 5. [OnePage - Flex & Grid - Bonus](https://florencejacobs.github.io/carte_animee/)
     
-### JAVASCRIPT (After two months of study)
+### JAVASCRIPT (*After two months of study*)
 
 1. [Cookie Clicker](https://florencejacobs.github.io/CookieClicker/ "CookieClicker")
 2. [Hangman](https://florencejacobs.github.io/Hangman/ "Hangman")
