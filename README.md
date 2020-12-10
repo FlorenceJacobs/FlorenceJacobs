@@ -1,6 +1,6 @@
 # **1, 2, 3.... Let's go!**
 
-This August, after a ten-year career in communications, I took the plunge by joining BeCode, a code school witch mission is :
+This August, after a ten-year career in communications, I took the plunge by joining BeCode, a code school which mission is :
 
  >Enabling tomorrow’s digital talents to blossom.
 
