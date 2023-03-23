@@ -1,3 +1,3 @@
-# **After 7months learning code @Becode**
+# **Learning programming**
 
 ## --> [My portfolio](https://florencejacobs-portfolio.web.app/)
